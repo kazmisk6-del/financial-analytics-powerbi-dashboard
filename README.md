@@ -39,4 +39,4 @@ This project focuses on analyzing financial performance using Business Intellige
 - `research-paper/` → Research article
 
 ## 👨‍💻 Author
-Your Name
+Tasleem Zahra
